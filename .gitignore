@@ -1,0 +1,24 @@
+# Ignore specific result files
+LSTM_results_non_bank_holidays.csv
+LSTM_results_all_days.csv
+results/LSTM_first.txt
+test_simple.r
+
+# Ignore large data files (optional - uncomment if you want to exclude them)
+# signal_datasets/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Ignore R cache
+.RData
+.Rhistory
+.Rproj.user/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
