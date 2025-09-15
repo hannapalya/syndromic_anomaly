@@ -4,8 +4,8 @@ LSTM_results_all_days.csv
 results/LSTM_first.txt
 test_simple.r
 
-# Ignore large data files (optional - uncomment if you want to exclude them)
-# signal_datasets/
+# Ignore large data files
+signal_datasets/
 
 # Ignore Python cache
 __pycache__/
